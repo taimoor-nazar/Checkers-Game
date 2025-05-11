@@ -34,3 +34,9 @@ Game Rules:
 3) Kings can move and capture in both directions
 4) Multiple jumps allowed (and required when possible)
 5) Game ends when a player has no moves or no pieces
+   
+   [Project Proposal.pdf](https://github.com/user-attachments/files/20149827/Project.Proposal.pdf)
+   [AI project report.pdf](https://github.com/user-attachments/files/20149833/AI.project.report.pdf)
+   
+
+
